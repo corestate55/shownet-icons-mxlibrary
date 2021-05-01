@@ -21,7 +21,7 @@ See [Interop ShowNet アイコンを draw.io (diagrams.net) で使おう - Qiita
 
 ### Diagrams.net
 
-* [Open Diagrams.net with shownet-icons.xml](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fcorestate55%2Fshownet-icons-mxlibrary%2Fmaster%2Fshownet-icons.xml)
+* [Open Diagrams.net with shownet-icons.xml](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fcorestate55%2Fshownet-icons-mxlibrary%2Fmain%2Fshownet-icons.xml)
 
 ### VSCode Draw.io Integration
 
@@ -34,7 +34,7 @@ Edit settings.json
         {
             "entryId": "Interop ShowNet Icons",
             "libName": "Interop ShowNet Icons",
-            "url": "https://raw.githubusercontent.com/corestate55/shownet-icons-mxlibrary/master/shownet-icons.xml"
+            "url": "https://raw.githubusercontent.com/corestate55/shownet-icons-mxlibrary/main/shownet-icons.xml"
         }
     ]
 ```
@@ -46,8 +46,15 @@ and [+ More Shapes] - [Interop ShowNet Icons] in VSCode.
 Download [shownet-icons.xml](./shownet-icons.xml) and import it as library: [File] - [Open Library].
 
 ```shell
-curl -LO https://https://raw.githubusercontent.com/corestate55/shownet-icons-mxlibrary/master/shownet-icons.xml
+curl -LO https://raw.githubusercontent.com/corestate55/shownet-icons-mxlibrary/main/shownet-icons.xml
 ```
+
+## How to convert SVG files to mxlibrary file
+
+Clone this repository and exec [convert.sh](./convert.sh). The script does:
+* Download ShowNet Icon zip file and extract it into `assets` directory
+* Pull mxlibrary converter repository and install npm packages for it
+* Convert SVG files to mxlibrary file
 
 ## License
 
