@@ -1,15 +1,15 @@
 # shownet-icons-mxlibrary
-Draw.io (Diagrams.net) icon library of Interop ShowNet Icons 2021
+Draw.io (Diagrams.net) icon library of Interop ShowNet Icons 2022
 
 ## Interop ShowNet Icons
 
-Download: https://www.interop.jp/shownet/point/#topology_external
+Download: https://www.interop.jp/2022/shownet/concept/#figures
 
 > all materials and objects in this archive are available
 > under the Creative Commons Attribution-ShareAlike License
 > https://creativecommons.org/licenses/by-sa/4.0/
-> 
-> ShowNet Icons (C) 2021 Interop Tokyo ShowNet NOC Team / CC BY-SA 4.0
+>
+> ShowNet Icons (C) 2022 Interop Tokyo ShowNet NOC Team / CC BY-SA 4.0
 
 ## mxlibrary converter
 
@@ -60,4 +60,4 @@ Clone this repository and exec [convert.sh](./convert.sh). The script does:
 
 Interop ShowNet Icons is distributed under CC BY-SA 4.0. Therefore shownet-icons.xml inherits the same license.
 
-https://creativecommons.org/licenses/by-sa/4.0/
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
