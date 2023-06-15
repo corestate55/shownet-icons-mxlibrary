@@ -1,9 +1,9 @@
 #!/usr/bin/sh
 
-SHOWNET_ICONS_ZIP="ShowNet_Icons_2022.zip"
-SHOWNET_ICONS_URL="https://www.interop.jp/2022_common/assets/file/$SHOWNET_ICONS_ZIP"
+SHOWNET_ICONS_ZIP="ShowNet_Icons_2023.zip"
+SHOWNET_ICONS_URL="https://www.interop.jp/2023/shownet/$SHOWNET_ICONS_ZIP"
 SHOWNET_ICONS_EXT_DIR="assets"
-SHOWNET_ICONS_SVG_DIR="$SHOWNET_ICONS_EXT_DIR/ShowNet Icons 2022/svg"
+SHOWNET_ICONS_SVG_DIR="$SHOWNET_ICONS_EXT_DIR/svg"
 SHOWNET_ICONS_XML_FILE="shownet-icons.xml"
 
 CONVERTER="svg2mxlibrary"

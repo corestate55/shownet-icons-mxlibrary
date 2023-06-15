@@ -1,15 +1,15 @@
 # shownet-icons-mxlibrary
-Draw.io (Diagrams.net) icon library of Interop ShowNet Icons 2022
+Draw.io (Diagrams.net) icon library of Interop ShowNet Icons 2023
 
 ## Interop ShowNet Icons
 
-Download: https://www.interop.jp/2022/shownet/concept/#figures
+Download: https://www.interop.jp/2023/shownet/concept/#dl
 
 > all materials and objects in this archive are available
 > under the Creative Commons Attribution-ShareAlike License
 > https://creativecommons.org/licenses/by-sa/4.0/
 >
-> ShowNet Icons (C) 2022 Interop Tokyo ShowNet NOC Team / CC BY-SA 4.0
+> ShowNet Icons (C) 2023 Interop Tokyo ShowNet NOC Team / CC BY-SA 4.0
 
 ## mxlibrary converter
 
