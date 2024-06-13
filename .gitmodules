@@ -1,3 +1,6 @@
 [submodule "icon-collection-mxlibrary"]
 	path = icon-collection-mxlibrary
 	url = https://github.com/yaegashi/icon-collection-mxlibrary.git
+[submodule "shownet-icons"]
+	path = shownet-icons
+	url = https://github.com/interop-tokyo-shownet/shownet-icons.git
